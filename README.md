@@ -1,9 +1,12 @@
 ### CHEE Chorng Herng
 
-Full-stack engineer: Rust and Node.js services on PostgreSQL, SvelteKit front ends, Linux servers and CI pipelines.
+Full-stack engineer in Johor Bahru, Malaysia. I build software from microcontroller firmware and back-end services to web apps and browser extensions, and I deploy and run it. My recent work applies LLMs to real tasks.
 
-- [Raven](https://cch137.com/work/raven/): self-hosted AI agent platform. Sole developer since 2022. The source is private. Device agent releases: [minion-dist](https://github.com/cch137/minion-dist).
-- [Clew](https://cch137.com/work/clew/): turns business files into a supplier price list, with a source for every price. Releases: [clew-dist](https://github.com/cch137/clew-dist).
-- [Mind Reality](https://cch137.com/work/mind-reality/): HoloLens 2 app in which voice agents generate animated 3D objects. Team of 3.
+- [Raven](https://cch137.com/work/raven/): my own AI agent platform and my main tool every day. Models from several providers, a device agent for Linux, macOS and Windows, a Chrome extension and parallel agents. The source is private. Device agent releases: [minion-dist](https://github.com/cch137/minion-dist).
+- [Clew](https://cch137.com/work/clew/): a personal experiment that turns a company's files into a supplier price list, with a source for every price.
+- [Mind Reality](https://cch137.com/work/mind-reality/): a mixed reality app for HoloLens 2 in which LLM agents and a realtime voice agent generate animated 3D objects. Team of 3. Back end: [3dog-node-backend](https://github.com/cch137/3dog-node-backend).
+- [IoT Watering](https://cch137.com/work/iot-watering/): an Arduino and ESP8266 watering system with a live web dashboard. Team of 6. I wrote all of the software.
 
-Portfolio: [cch137.com](https://cch137.com)
+Skills: TypeScript, Python, C, Rust · SvelteKit, React, Next.js, Node.js · PostgreSQL, Redis, MongoDB · multi-agent systems, realtime AI, LangGraph, vector RAG · Linux, Docker · Raspberry Pi, Arduino, ESP8266, HoloLens 2
+
+Portfolio: [cch137.com](https://cch137.com) · Resume: [PDF](https://cch137.com/resume.pdf)
